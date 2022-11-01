@@ -5,6 +5,7 @@ Created on Sat Oct 22 16:48:49 2022
 
 @author: brettcarey
 """
+# See the readme on Git for full directions
 
 import json
 import urllib.request
